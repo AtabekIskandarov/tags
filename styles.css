@@ -1,8 +1,67 @@
+div {
+    margin: 15px  15px;
+    border: double 3px black;
+    background-image: url();
+    text-shadow: cornsilk;
+    font-family: algerian;
+}
+
+
+.header {
+    border: 2px solid black;
+    height: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(./headpic.jpg);
+    background-position: center;
+    background-image: image-set(fix);
+}
+
+.sidebar {
+    border: 2px solid black;
+    height: 700px;
+    font-weight: 100;
+    width: 20%;
+    float: left;
+    padding-right: 10px;
+    background-image: url(./1.jpg);
+}
+
+.sidebar2 {
+    border: 2px solid black;
+    height: 700px;
+    font-weight: 100;
+    width: 20%;
+    float: left;
+    padding-right: 10px;    
+    background-image: url(./2.jpg);
+}
+
+.sidebar3 {
+    border: 2px solid black;
+    height: 700px;
+    font-weight: 100;
+    width: 20%;
+    float: left;
+    padding-right: 10px;    
+    background-image: url(./3.jpg);
+}
+
+.sidebar4 {
+    border: 2px solid black;
+    height: 700px;
+    font-weight: 100;
+    width: 20%;
+    float: left;
+    padding-right: 10px;   
+    background-image: url(./4.jpg); 
+}
+
 .textt {
     text-align: center;
     color: rgb(82, 6, 70);
     background-color: cadetblue;
-    margin: 20px 20px;
+    margin: 10px 10px;
     
 }
 
@@ -42,7 +101,6 @@ table {
     background-color: rgb(245, 230, 200);
     border-color: indigo;
     border-radius: 10px;
-
 }
 
 td {
