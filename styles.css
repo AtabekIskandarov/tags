@@ -3,7 +3,7 @@ div {
     border: double 3px black;
     background-image: url();
     text-shadow: cornsilk;
-    font-family: algerian;
+    
 }
 
 
@@ -15,6 +15,19 @@ div {
     background-image: url(./headpic.jpg);
     background-position: center;
     background-image: image-set(fix);
+    color: rgb(82, 6, 70);
+}
+
+.header2 {
+    border: 2px solid #a9ecf5;
+    height: 34px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(15, 2, 13);
+    background-color: #c1d8db;
+    padding: 10px 10px;
+    padding-left: 30px;
+    word-spacing: 40px;       
 }
 
 .sidebar {
@@ -25,6 +38,7 @@ div {
     float: left;
     padding-right: 10px;
     background-image: url(./1.jpg);
+    color: rgb(82, 6, 70);
 }
 
 .sidebar2 {
@@ -35,6 +49,7 @@ div {
     float: left;
     padding-right: 10px;    
     background-image: url(./2.jpg);
+    color: rgb(82, 6, 70);
 }
 
 .sidebar3 {
@@ -45,6 +60,7 @@ div {
     float: left;
     padding-right: 10px;    
     background-image: url(./3.jpg);
+    color: rgb(82, 6, 70);
 }
 
 .sidebar4 {
@@ -55,6 +71,7 @@ div {
     float: left;
     padding-right: 10px;   
     background-image: url(./4.jpg); 
+    color: rgb(82, 6, 70);
 }
 
 .textt {
@@ -68,7 +85,8 @@ div {
 body {
     font-size: x-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(75, 14, 5);
+    background-image: url(https://kartinkinaden.ru/uploads/posts/2020-11/1606681650_40-p-foni-dlya-informatikov-55.jpg);
+    color: blanchedalmond;
 }
 .text {
     font-size: 25px;
